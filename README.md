@@ -31,6 +31,8 @@ Adding new records: AddNewEmployee.java, AddNewPatient.java, etc.
 Viewing data: ViewEmployees.java, ViewPatients.java, ViewReports.java, etc.
 Editing and removing records: EditEmployee.java, RemovePatient.java, etc.
 Authentication screens: Login.java, ChangePassword.java.
+
+
 ![Health1](https://github.com/user-attachments/assets/34932420-7752-4d69-88a6-da6541f3d103)
 
 
